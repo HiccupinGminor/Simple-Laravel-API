@@ -1,5 +1,9 @@
 <?php namespace Interfaces;
 
+/**
+ * A contract to which all data implementations must adhere.
+ * Allows for easy switching in the future.
+ */
 Interface HotelRepositoryInterface {
 
 	public function all();

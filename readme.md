@@ -3,7 +3,7 @@ For Runtriz
 
 This little application is designed to demonstrate my API writing skills and back-end dev abilities through a simple JSON API utility for Creating, Updating, Reading and Deleting basic hotel information.
 
-Using
+Use
 -----
 To run the accompanying unit tests simply clone this repo through Git, run composer install, and execute PHP Unit.
 
